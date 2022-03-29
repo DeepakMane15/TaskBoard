@@ -1,0 +1,40 @@
+.title {
+    font-weight: 700;
+    font-size: 34px
+}
+
+.content {
+    margin-top: 200px;
+    text-align: center
+}
+
+.formBody {
+    padding: 20px
+}
+
+.formText {
+    text-align: center
+}
+
+.form-control {
+    width: 30% !important;
+    background-color: transparent !important;
+    display: block !important;
+    margin: auto !important;
+}
+
+.form-check {
+    width: 15% !important;
+    background-color: transparent !important;
+    display: block !important;
+    margin: auto !important;
+    font-size: 13px !important;
+    padding: 5 !important;
+}
+
+.btn {
+    background-color: #fff !important;
+    color: #1c437e !important;
+    font-weight: 700 !important;
+    width: 100px !important;
+}
