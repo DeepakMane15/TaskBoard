@@ -44,13 +44,20 @@
     height: 60px;
     padding: 10px;
 }
-.box{
+
+.box {
     border: 1px solid #1c437e;
     max-width: 300px !important;
     padding: 5px
 }
+
 .box p {
     font-weight: 600;
     font-size: 18px;
     color: #1c437e
+}
+
+#formInput {
+    margin: none !important;
+    color: black !important;
 }

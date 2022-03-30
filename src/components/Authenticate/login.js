@@ -8,6 +8,7 @@ const Login = () => {
         document.body.style.backgroundColor = "#0d1117"
         document.body.style.color = 'rgb(92 130 241)'
     })
+    
     return ( 
     <Container className='content'>
         <div className='title'>
