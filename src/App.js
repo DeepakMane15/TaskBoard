@@ -1,8 +1,8 @@
 import logo from './logo.svg';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import './App.css';
-import Login from './components/Authnticate/login';
-import Signup from './components/Authnticate/signup';
+import Login from './components/Authenticate/login';
+import Signup from './components/Authenticate/signup';
 import Home from './components/home';
 
 const App = () => {

@@ -5,8 +5,8 @@ import './style.css';
 
 const Login = () => {
     useEffect(() => {
-        document.body.style.backgroundColor = "#1c437e"
-        document.body.style.color = '#fff'
+        document.body.style.backgroundColor = "#0d1117"
+        document.body.style.color = 'rgb(92 130 241)'
     })
     return ( 
     <Container className='content'>
