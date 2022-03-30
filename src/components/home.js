@@ -27,8 +27,6 @@ const Home = () => {
 const add = (e) =>{
   e.preventDefault()
   if(title != '' || details != '') {
-    // alert(title)
-    // alert(details)
     tasks.push({title:title, details:details});
     console.clear()
     setModalShow(false);
